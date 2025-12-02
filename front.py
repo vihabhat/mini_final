@@ -70,6 +70,7 @@ def main():
         # Clean up the temporary file
         if os.path.exists("temp_image.jpg"):
             os.remove("temp_image.jpg")
+        print(hello)
         
 
 if __name__ == "__main__":
