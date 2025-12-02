@@ -72,6 +72,7 @@ def main():
             os.remove("temp_image.jpg")
         for i in range (1,10):
             print(i)
+            print("hello")
         
 
 if __name__ == "__main__":
